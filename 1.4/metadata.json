@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 最新",
+  "description": "一个为中国Python初学者设计的在线编程练习平台。本应用使用 Pyodide 技术在浏览器本地运行 Python 代码，支持 NumPy 和 Pandas，无需后端服务器。",
+  "requestFramePermissions": []
+}
